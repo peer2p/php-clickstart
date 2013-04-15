@@ -19,7 +19,7 @@
     },
     "build-with-jenkins": {
         "template": {
-            "type": "https://raw.github.com/cloudbees-community/php/master/config.xml"
+            "type": "https://raw.github.com/cloudbees-community/php-clickstart/master/config.xml"
         }
     }
 }
